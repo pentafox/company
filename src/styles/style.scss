@@ -1,0 +1,14 @@
+@import "../../node_modules/bootstrap/scss/bootstrap.scss";
+
+// Font files
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,500,600|Quicksand:500,600&display=swap');
+
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+@import "variables";
+
+@import "layout";
+@import "navbar";
