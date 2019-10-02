@@ -1,0 +1,55 @@
+{
+  "title": "Home",
+  "content": "intro.md",
+  "image": {
+    "logo": "../images/logo.png",
+    "bottomImg": "../images/landing-bottom.png",
+    "footerImg": "../images/footer-image.png",
+    "landing": "../images/landing.png"
+  },
+  "category": [{
+    "title": "Platform Engineering",
+    "content": [
+      "The need for quality professional assistance towards architecting and deploying large infrastructures on Amazon Web Services and Google Cloud platforms are in great demand. Pentafox holds an experienced platform team with diverse services skillset on AWS, GCP and a wide range of open source tools stack.",
+      "Service stack: ",
+      "Terraform, Ansible, Git, Jira, Jenkins, Bitbucket, AWS Developer Tools, Web & Open-Source Stacks, Linux, Windows, MySQL, PostgreSQL, Aurora, RedShift, MongoDB, Elastic Search, CloudFront/WAF, GCP Services etc.., "
+    ],
+    "image": "../images/landing.png"
+  },
+  {
+    "title": "Digital Strategy",
+    "content": [
+      "Enterprises aim for better customer engagement, efficient business process automation and greater outreach in the market. You are one click away from reaching out to masses. Unwound your business through a global presence with the advantage of websites and mobile apps."
+    ],
+    "image": "../images/landing.png"
+  },
+  {
+    "title": "ML Solutions",
+    "content": [
+      "Insights of great value is hidden in millions of business transactions accumulating into terabytes of information. Empower your business with Machine Learning solutions to unravel the knowledge beneath the data. Let’s discuss over a cup of coffee if you have an interesting usecase to solve!"
+    ],
+    "image": "../images/landing.png"
+  },
+  {
+    "title": "Computer Vision",
+    "content": [
+      "Vision based solutions for security, automated & non-invasive monitoring systems, intelligent decision support for complex environments and knowledge extraction from media sources for better business in the entertainment industry is all game for the team of professionals at Pentafox."
+    ],
+    "image": "../images/landing.png"
+  }],
+  "gallery": [{
+    "title": "React Context",
+    "copy": "For global styles.",
+    "image": "../images/gallery/react-context.jpg"
+  },
+  {
+    "title": "Page Transitions",
+    "copy": "Component-based for easy usage.",
+    "image": "../images/gallery/page-transitions.jpg"
+  },
+  {
+    "title": "Intersection Observer",
+    "copy": "Including a polyfill for Safari.",
+    "image": "../images/gallery/intersection-observer.jpg"
+  }]
+}
